@@ -1,0 +1,19 @@
+*
+.borad-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 500px;
+  position:relative;
+}
+ .sq {
+  border: 1px solid;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+} 
+.board-con{
+margin: 40px;
+}
